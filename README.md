@@ -1,5 +1,6 @@
 # COMP47500 – Advanced Data Structures in Java
 # Project No: 5
+# Leveraging bidirectional Graph to calculate for top social media influencers using Scoring system
 
 ## Group Details
 	2320077  - Prakash Jha
